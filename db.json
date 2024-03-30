@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Test Plant",
+      "image": "https://t4.ftcdn.net/jpg/01/79/88/65/360_F_179886510_6xf0RHhDnLN5ovd2qmGF4WaZMJjqrt6o.jpg",
+      "price": "10",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "15",
+      "id": 9
     }
   ]
 }
